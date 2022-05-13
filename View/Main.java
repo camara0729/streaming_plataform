@@ -29,7 +29,7 @@ public class Main {
                         break;
                 case 0: 
                         break;
-                default: System.out.println("Opção inválida");
+                default: System.out.println("Invalid option");
             }            
         } while (op != 0);
     }
